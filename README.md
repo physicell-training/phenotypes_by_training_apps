@@ -16,13 +16,13 @@ The following links provide access to the apps on Google Colab:
 
 ### Apps
 
-1. [Basic Cell Mechanics](tr_Mechanics)
-2. [Cell Microenviroment Models](tr_Microenvironment)
-3. [Cell Motility Models](tr_Motility)
-4. [Cell Secretion Models](tr_Secretion)
-5. [Cell Volumes Models](tr_Volume)
-6. [Cell Death Models](tr_Death)
-7. [Cell Cycle Models](tr_cycle)
+1. [Basic Cell Mechanics](https://github.com/physicell-training/tr_mechanics))
+2. [Cell Microenviroment Models](https://github.com/physicell-training/tr_microenvironment)
+3. [Cell Motility Models](https://github.com/physicell-training/Motility_Training_App))
+4. [Cell Secretion Models](https://github.com/physicell-training/tr_secretion))
+5. [Cell Volumes Models](https://github.com/physicell-training/tr_Volume)
+6. [Cell Death Models](https://github.com/physicell-training/Death_Models_Training)
+7. [Cell Cycle Models](https://github.com/physicell-training/tr_cycle)
 
 You are also welcome to clone each app to your local machine and run it on Colab from your Google Drive.
 
