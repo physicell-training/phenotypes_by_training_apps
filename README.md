@@ -14,12 +14,12 @@ The following links provide access to the apps on Google Colab:
 6. [Cell Death](https://colab.research.google.com/drive/1YzMIJPCqeJGPnftzDvUYY86YqgWhUiPi?copy=true)
 7. [Cell Cycle](https://colab.research.google.com/drive/1zUTzXGBpdnqSSjOzgOMjfjoFoTNGz8ab?copy=true)
 
-### Apps
+### Source Code for Apps
 
-1. [Basic Cell Mechanics](https://github.com/physicell-training/tr_mechanics))
+1. [Basic Cell Mechanics](https://github.com/physicell-training/tr_mechanics)
 2. [Cell Microenviroment Models](https://github.com/physicell-training/tr_microenvironment)
 3. [Cell Motility Models](https://github.com/physicell-training/Motility_Training_App))
-4. [Cell Secretion Models](https://github.com/physicell-training/tr_secretion))
+4. [Cell Secretion Models](https://github.com/physicell-training/tr_secretion)
 5. [Cell Volumes Models](https://github.com/physicell-training/tr_Volume)
 6. [Cell Death Models](https://github.com/physicell-training/Death_Models_Training)
 7. [Cell Cycle Models](https://github.com/physicell-training/tr_cycle)
