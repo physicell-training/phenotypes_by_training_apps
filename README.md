@@ -12,7 +12,7 @@ The following links provide access to the apps on Google Colab:
 4. [Cell Secretion](https://colab.research.google.com/drive/15gYkQdlJDikVra2kM1j_CJNFp8VZMh47?usp=sharing)
 5. [Cell Volume](https://colab.research.google.com/drive/1nf1RBPx98AaaROBtGJLSr2n6UHZIQi5f?usp=sharing)
 6. [Cell Death](https://colab.research.google.com/drive/1YzMIJPCqeJGPnftzDvUYY86YqgWhUiPi?copy=true)
-7. [Cell Cycle](https://colab.research.google.com/drive/1zUTzXGBpdnqSSjOzgOMjfjoFoTNGz8ab?copy=true)
+7. [Cell Cycle](https://colab.research.google.com/drive/1GcmUjMnb-Rg_QE6S388pXPwW9UUflpDP?usp=sharing)
 
 ### Source Code for Apps
 
