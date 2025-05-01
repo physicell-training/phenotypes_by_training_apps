@@ -11,7 +11,7 @@ The following links provide access to the apps on Google Colab:
 3. [Cell Motility](https://colab.research.google.com/drive/1d-ZBb6NktWwBhu9lidbi-aoN5ceWTJga?usp=sharing)
 4. [Cell Secretion](https://colab.research.google.com/drive/15gYkQdlJDikVra2kM1j_CJNFp8VZMh47?usp=sharing)
 5. [Cell Volume](https://colab.research.google.com/drive/1nf1RBPx98AaaROBtGJLSr2n6UHZIQi5f?usp=sharing)
-6. [Cell Death](https://colab.research.google.com/drive/1YzMIJPCqeJGPnftzDvUYY86YqgWhUiPi?copy=true)
+6. [Cell Death](https://colab.research.google.com/drive/1EurXPW8dIALmZZkHamtwvQjwB-f8bBAd?usp=sharing)
 7. [Cell Cycle](https://colab.research.google.com/drive/1GcmUjMnb-Rg_QE6S388pXPwW9UUflpDP?usp=sharing)
 
 ### Source Code for Apps
@@ -53,12 +53,3 @@ No installation is required. All apps utlitze Google Colab, which is a free clou
 ![Colab](assets/colab_starter_page.png)
 
 ![Github](assets/github_url_insert.png)
-
-As mentioned earlier, each app is a self-contained example that demonstrates a specific feature of PhysiCell. The apps are designed to be used in conjunction with the PhysiCell documentation and tutorials. The links to the apps are as follows, and you will need to copy and paste them into the Colab notebook URL field, highlighted in yellow.
-
-1. https://github.com/url-it/PhysiCell_Training_Apps/blob/main/tr_Mechanics/examples/tr_mechanics.ipynb
-2. https://github.com/url-it/PhysiCell_Training_Apps/blob/main/tr_Microenvironment/examples/tr_microenvironment.ipynb
-3. https://github.com/url-it/PhysiCell_Training_Apps/blob/main/tr_Motility/examples/tr_motility.ipynb
-4. https://github.com/url-it/PhysiCell_Training_Apps/blob/main/tr_Secretion/examples/tr_secretion.ipynb
-5. https://github.com/url-it/PhysiCell_Training_Apps/blob/main/tr_Volume/examples/tr_Volume.ipynb
-6. https://github.com/url-it/PhysiCell_Training_Apps/blob/main/tr_Death/examples/tr_Death_Models_Training.ipynb
