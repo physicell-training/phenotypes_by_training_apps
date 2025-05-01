@@ -18,7 +18,7 @@ The following links provide access to the apps on Google Colab:
 
 1. [Basic Cell Mechanics](https://github.com/physicell-training/tr_mechanics)
 2. [Cell Microenviroment Models](https://github.com/physicell-training/tr_microenvironment)
-3. [Cell Motility Models](https://github.com/physicell-training/Motility_Training_App))
+3. [Cell Motility Models](https://github.com/physicell-training/Motility_Training_App)
 4. [Cell Secretion Models](https://github.com/physicell-training/tr_secretion)
 5. [Cell Volumes Models](https://github.com/physicell-training/tr_Volume)
 6. [Cell Death Models](https://github.com/physicell-training/Death_Models_Training)
