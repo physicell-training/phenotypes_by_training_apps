@@ -14,7 +14,7 @@ The following links provide access to the apps on Google Colab:
 6. [Cell Death](https://colab.research.google.com/drive/1EurXPW8dIALmZZkHamtwvQjwB-f8bBAd?usp=sharing)
 7. [Cell Cycle](https://colab.research.google.com/drive/1GcmUjMnb-Rg_QE6S388pXPwW9UUflpDP?usp=sharing)
 
-## [Slides to understand background](Slide Decks)
+## [Slides to understand background](Slide_Decks)  
 
 ## [App walkthrough](https://www.youtube.com/watch?v=oTMmLz6kTF0)
 
